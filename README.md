@@ -28,7 +28,7 @@ Una vez que se agruparon los países con patrones de propagación similares, se 
 
 La aplicación del algoritmo Trendy y DTW ha enriquecido el análisis de COVID-19 al permitir agrupar países con patrones de contagio similares y proyectar su evolución futura con mayor precisión. Esta metodología es una herramienta valiosa para el análisis de series temporales en situaciones donde las secuencias varían en velocidad y duración. Al agrupar países en función de sus patrones de propagación, podemos anticipar cómo evolucionará la pandemia en diferentes regiones del mundo. Este algoritmo Trendy, tambien puede replicarse para conocer o saber como sera el comportamiento de nuestros productos en nuevos mercado... interesante...
 
-https://github.com/JkaivaRevilla/Cluster-de-Comportamiento-del-COVID-19/blob/3f7f538bb3bd9c255df5889434062718697baa82/CovidCluster_Proyeccion.jpg
+![clustercovid](https://github.com/JkaivaRevilla/Cluster-de-Comportamiento-del-COVID-19/raw/3f7f538bb3bd9c255df5889434062718697baa82/CovidCluster_Proyeccion.jpg)
 
 ## Conclusión
 
