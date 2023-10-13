@@ -18,6 +18,8 @@ Se aplicó un algoritmo de clustering a nivel mundial utilizando la cantidad de 
 
 Para comparar de manera efectiva los patrones de contagio, se realizó un procedimiento de estandarización temporal. Todos los países fueron llevados a un mismo punto de inicio, como si comenzaran al mismo tiempo. Esto es esencial para eliminar el sesgo causado por las diferencias en las fechas de inicio de contagios en cada país.
 
+https://github.com/JkaivaRevilla/Cluster-de-Comportamiento-del-COVID-19/blob/3f7f538bb3bd9c255df5889434062718697baa82/ClusterCountry.jpg
+
 ## Paso 3: Proyección del Comportamiento Futuro
 
 Una vez que se agruparon los países con patrones de propagación similares, se proyectó su comportamiento futuro en función de la evolución de otros países dentro del mismo grupo. Por ejemplo, si un país inició sus contagios el 01-03-2020 y otro el 01-04-2020, podemos anticipar que el estado actual del primero será similar al del segundo aproximadamente un mes después.
@@ -26,6 +28,8 @@ Una vez que se agruparon los países con patrones de propagación similares, se 
 ## Resultados y Discusión
 
 La aplicación del algoritmo Trendy y DTW ha enriquecido el análisis de COVID-19 al permitir agrupar países con patrones de contagio similares y proyectar su evolución futura con mayor precisión. Esta metodología es una herramienta valiosa para el análisis de series temporales en situaciones donde las secuencias varían en velocidad y duración. Al agrupar países en función de sus patrones de propagación, podemos anticipar cómo evolucionará la pandemia en diferentes regiones del mundo. Este algoritmo Trendy, tambien puede replicarse para conocer o saber como sera el comportamiento de nuestros productos en nuevos mercado... interesante...
+
+https://github.com/JkaivaRevilla/Cluster-de-Comportamiento-del-COVID-19/blob/3f7f538bb3bd9c255df5889434062718697baa82/CovidCluster_Proyeccion.jpg
 
 ## Conclusión
 
