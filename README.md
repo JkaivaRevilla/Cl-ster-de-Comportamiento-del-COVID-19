@@ -17,7 +17,7 @@ Se aplicó un algoritmo de clustering a nivel mundial utilizando la cantidad de 
 ## Paso 2: Estandarización Temporal
 
 Para comparar de manera efectiva los patrones de contagio, se realizó un procedimiento de estandarización temporal. Todos los países fueron llevados a un mismo punto de inicio, como si comenzaran al mismo tiempo. Esto es esencial para eliminar el sesgo causado por las diferencias en las fechas de inicio de contagios en cada país.
-
+![Cluster_Countr](https://github.com/JkaivaRevilla/Cluster-de-Comportamiento-del-COVID-19/blob/c1cc075cef760d3126256e4c3a1dfb36112a3d7d/Cluster_Country.png)
 
 ## Paso 3: Proyección del Comportamiento Futuro
 
